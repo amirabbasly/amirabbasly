@@ -1,6 +1,6 @@
 <div align='center'>
 <h1 align='center'>amirabbas</h1>
-<img src='./myphoto.jpg' width='40%'/>
+<img src='./myphoto.jpg' width='40%' border-radius='15px'/>
 <h3>My Exetantion:</h3>
 <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,figma,git,github,jquery,kali,laravel,mysql,nodejs,npm,ts,vscode&perline=8' alt='langoauge'/>
 </div>
