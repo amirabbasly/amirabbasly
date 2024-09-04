@@ -1,13 +1,11 @@
 <div align='center'>
-<h1 align='center'>amirabbas</h1>
+<h1 align='left' color='#139210'>amirabbas</h1>
 <img src='./myphoto.jpg' width='40%' border-radius='15px'/>
 <h3>My Exetantion:</h3>
 <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,figma,git,github,jquery,kali,laravel,mysql,nodejs,npm,ts,vscode&perline=8' alt='langoauge'/>
 </div>
 ## 💫 About Me:
 Junior Web Developer
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir.soleymani_1) 
 <a href="https://t.me/soufi_learn" rel="nofollow"><img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;"></a>
