@@ -5,7 +5,7 @@
 <img src='https://skillicons.dev/icons?i=html,css,js,bootstrap,angular,figma,git,github,jquery,kali,laravel,mysql,nodejs,npm,ts,vscode&perline=8' alt='langoauge'/>
 </div>
 ## 💫 About Me:
-Junior Web Developer
+Mid-Level Developer
 
 
 ## 🌐 Socials:
